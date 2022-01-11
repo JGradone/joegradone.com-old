@@ -6,7 +6,7 @@ header:
 ---
 
 
-I am presently a PhD student in the Center for Ocean Observing Leadership at Rutgers University ([RUCOOL](https://rucool.marine.rutgers.edu/)). My research at Rutgers is currently focused on developing a system to process data from an acoustic doppler current profiler mounted on a Teledyne-Webb Research Slocum glider in real-time. This system will enable the investigation of both process-based and data assimilation improvements for hurricane forecast models.
+I am presently a PhD student in the Center for Ocean Observing Leadership at Rutgers University ([RUCOOL](https://rucool.marine.rutgers.edu/)). My research at Rutgers is currently focused on developing a system to process data from an acoustic doppler current profiler (ADCP) mounted on a Teledyne-Webb Research Slocum glider in real-time. This system will enable the investigation of both process-based and data assimilation improvements for hurricane forecast models.
 
 
 ---
@@ -16,4 +16,4 @@ Prior to coming to Rutgers, I worked as a Customer Support Applications Engineer
 
 ---
 
-I conducted Master's work at the University of Delaware with Matt Oliver in the [ORB Lab](https://sites.udel.edu/ceoe-moliver/). While at UD, my [research](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JC015646) investigated sea surface kinetic energy as a proxy for pythoplankton light limitation in the Southern Ocean through the use of [SOCCOM floats](https://soccom.princeton.edu/) as well as satellite and modeled parameters.
+I conducted Master's work at the University of Delaware with Matt Oliver in the [ORB Lab](https://sites.udel.edu/ceoe-moliver/). While at UD, my [research](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JC015646) investigated sea surface kinetic energy as a proxy for phytoplankton light limitation in the Southern Ocean through the use of [SOCCOM floats](https://soccom.princeton.edu/) as well as satellite and modeled parameters.
