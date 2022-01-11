@@ -14,6 +14,4 @@ header:
 Read more about my research [here](https://joegradone.com/research/)
 
 My CV can be found [here](https://joegradone.com/assets/JGradone_CV.pdf).
-
-Test
  
