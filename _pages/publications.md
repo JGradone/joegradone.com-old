@@ -7,7 +7,7 @@ header:
 
 <br />
 
-* **Joseph Gradone**. (2022). JGradone/Slocum-AD2CP: v1.0.0 (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.7416126
+* **Joseph Gradone**. (2022). JGradone/Slocum-AD2CP: v1.0.0 (v1.0.0). Zenodo. [https://doi.org/10.5281/zenodo.7416126](https://doi.org/10.5281/zenodo.7416126)
 
 * **Gradone, J.C.**, Hunter, E.J., Mullison, J, & Miles, T.N. (2021) Development of Onboard Processing Capabilities for a Slocum Glider
 Acoustic Doppler Current Profiler. OCEANS 2021: San Diego – Porto pp. 1-5, doi: [10.23919/OCEANS44145.2021.9705895](https://ieeexplore.ieee.org/document/9705895)
