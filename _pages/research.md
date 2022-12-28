@@ -5,6 +5,8 @@ header:
   image: /assets/images/masthead.jpg
 
 toc: true
+toccolor: grey
+
 ---
 
 ---
