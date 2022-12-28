@@ -4,8 +4,7 @@ title: "Research"
 header:
   image: /assets/images/masthead.jpg
 
-toc: true,
-toccolor: grey
+toc: true
 
 ---
 
