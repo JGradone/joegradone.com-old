@@ -7,7 +7,6 @@ header:
 toc: true
 ---
 
-<br>
 ---
 ## Test 1
 I am presently a PhD student in the Center for Ocean Observing Leadership at Rutgers University ([RUCOOL](https://rucool.marine.rutgers.edu/)). My research at Rutgers is currently focused on developing a system to process data from an acoustic doppler current profiler (ADCP) mounted on a Teledyne-Webb Research Slocum glider in real-time. This system will enable the investigation of both process-based and data assimilation improvements for hurricane forecast models.
