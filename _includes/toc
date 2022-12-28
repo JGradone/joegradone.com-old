@@ -2,6 +2,21 @@
 <nav class="toc" markdown="1">
 <header><h4 class="nav__title"><i class="fas fa-{{ include.icon | default: 'file-alt' }}"></i> {{ include.title | default: site.data.ui-text[site.locale].toc_label }}</h4></header>
 *  Auto generated table of contents
-{:toc .toc__menu}
+#{:toc .toc__menu}
+{:toc .toc__menu{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  list-style: none;
+  font-size: 0.8rem;
+
+  a {
+    display: block;
+    padding: 0.5rem 1rem;
+    color: $gray;
+    font-size: $type-size-7;
+    font-weight: bold;
+    line-height: 1.5;
+}}
 </nav>
 </aside>
