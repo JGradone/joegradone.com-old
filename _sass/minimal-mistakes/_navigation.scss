@@ -532,6 +532,12 @@
   width: 100%;
   list-style: none;
   font-size: $type-size-6;
+  
+    a {
+    display: block;
+    padding: 0.5rem 1rem;
+    color: $gray
+  }
 
   @include breakpoint($large) {
     font-size: $type-size-7;
