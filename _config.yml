@@ -107,8 +107,9 @@ author:
   avatar : "/assets/images/JG_logo.png"
   bio              : "<p>Oceanographer <br />
     jgradone@marine.rutgers.edu</p>
-     "
+    " 
   location: "Rutgers University"
+  links: 
     - label: "ORCiD"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0003-2707-1864"
