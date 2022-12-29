@@ -19,7 +19,7 @@ toc: true
 
 ---
 ## Onboard Processing for Glider ADCPs
-
+There is a growing number of increasingly complex instruments have been integrated into autonomous underwater vehicles over the past two decades. While  these newly glider integrated sensors provide unprecedented insight into ocean processes, the large data volumes collected by these instruments cannot be efficiently telemetered to shore. There is a need for a sensor agnostic real-time processing software and hardware architecture for autonomous underwater vehicles. Working with Travis Miles, Eli Hunter, Julia Engdahl, and the software team at Teledyne Webb Research, we have begun integrating a Raspberry-Pi into a G3S Slocum Glider to perform real-time processing of Acoustic Doppler Current Profiler (ADCP) data. While this is ongoing work, initial findings from this work can be found in our Marine Technology Society Conference [paper](https://ieeexplore.ieee.org/document/9705895).
 
 ---
 ## Breaking Slocum Gliders
@@ -28,7 +28,10 @@ Prior to coming to Rutgers, I worked as a Customer Support Applications Engineer
 
 <figure >
   <img src="/assets/images/silbo.png">
+    <figcaption>
+    </figcaption>
 <figure >
+  
 <figure >
   <img src="/assets/images/silbo_track.png">
   <figcaption>Silbo and her total Trans-Atlantic Challenger Mission Track.
