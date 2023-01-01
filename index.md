@@ -9,7 +9,7 @@ header:
 **I'm a physical oceanographer excited about utilizing my background in industry, science, and engineering to leverage different ocean observing technologies to solve problems of practical and societal importance.**
 
 ---
-I am presently a PhD candidate in Oceanography in the Center for Ocean Observing Leadership at Rutgers University ([RUCOOL](https://rucool.marine.rutgers.edu/)). I am funded by the Department of Defense National Defense Science and Engineering Graduate ([NDSEG](https://ndseg.org/)) Fellowship. My research is focused on the circulation of the tropical Atlantic. I use gliders equipped with a variety of sensors to identify climatically important water masses and quantify the transport of these water masses through the island passages of the Eastern Caribbean.
+I am presently a PhD candidate in Oceanography in the Center for Ocean Observing Leadership at Rutgers University ([RUCOOL](https://rucool.marine.rutgers.edu/)) working with Dr. Travis Miles. I am funded by the Department of Defense National Defense Science and Engineering Graduate ([NDSEG](https://ndseg.org/)) Fellowship. My research is focused on the circulation of the tropical Atlantic. I use gliders equipped with a variety of sensors to identify climatically important water masses and quantify the transport of these water masses through the island passages of the Eastern Caribbean.
 
 ---
 Prior to coming to Rutgers, I worked as a Customer Support Applications Engineer on Slocum gliders for [Teledyne Webb Research](http://www.teledynemarine.com/webb-research/). I was primarily involved with testing and developing new glider software features while also supporting customers via remote field campaigns and technical trainings.
