@@ -16,9 +16,17 @@ Work in progress...
 
 ---
 ## Revisiting Anegada Passage Transport
-Work in progress...
+<figure >
+    <img src="/assets/images/Anegada_Map.png">
+    <figcaption> Glider tracks in the Anegada Passage region from 2020-2022 glider deployments. </figcaption>
+</figure>
 
+Caribbean through-flow is an important source of heat and salt for the Atlantic Meridional Overturning Circulation (AMOC). The presence of water masses that originated in the South Atlantic (SAW) in the Northern Hemisphere is indicative of cross-equatorial AMOC return flow. Ship-based observations in the 1990’s identified major pathways for this AMOC return flow but there is still a significant amount of SAW that is taking an unknown, alternate route northward. Working with Travis Miles and Scott Glenn of Rutgers and Doug Wilson from the University of the Virgin Islands, we have now conducted 4 glider deployments in the Anegada Passage region since 2020 collecting the first observations of temperature, salinity, and subsurface velocity in nearly 20 years. These observations suggest that the total transport and SAW transport through the Anegada Passage is larger than previously estimated. This work has been submitted to the JGR: Oceans and comprises Chapter 1 of my PhD.
 
+<figure >
+    <img src="/assets/images/Anegada_Transport.png">
+    <figcaption> E(+)/W(-) (top row) and N(+)/S(-) (bottom row) transport time-series’ calculated from the repeat transect lines between St. Thomas and St. Croix for the RU29 October 2020 deployment (left column) and RU36 March 2022 deployment (right column). Black dashed line represents the deployment mean transport. </figcaption>
+</figure>
 
 ---
 ## Onboard Processing for Glider ADCPs
