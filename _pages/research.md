@@ -11,8 +11,17 @@ toc: true
 
 ---
 ## Searching for Pathways of Cross-Equatorial Water Mass Return Flow
-Work in progress...
+<figure >
+    <img src="/assets/images/Anegada_T_S_O2.png">
+    <figcaption> Typical temperature (a) and salinity (b) profiles in the Anegada Passage region, as well as approximate ranges of the major water masses (c). Without the use of dissolved oxygen (d), two distinctly different water masses in the Central Water range cannot be distinguished from each other based on temperature and salinity alone. </figcaption>
+</figure>
 
+Identifying a water mass' hemisphere of origin based on temperature and salinity alone is imperfect as the major water masses from either hemisphere have common formation mechanisms and thereby have similar temperature and salinity characteristics. Fortunately, those same formation mechanisms lead to unique dissolved oxygen signals for the major water masses below the surface layer. Thus, when combined with temperature and salinity, dissolved can be used to infer the hemisphere of water mass origin. I am presently investigating the different cross-equatorial MOC return flow pathways in the Caribbean. This research utilizes the unique temperature, salinity, and dissolved oxygen characteristics of South Atlantic and North Atlantic Water (SAW/NAW) in existing glider datasets in the Northern Caribbean and planned glider deployments in the Southern Caribbean. This work is in progress as Chapter 2 of my PhD.
+
+<figure >
+    <img src="/assets/images/Anegada_T_S_O2.png">
+    <figcaption> Glider RU29 Windward Island Passages Deployments (October and November 2022) </figcaption>
+</figure>
 
 ---
 ## Revisiting Anegada Passage Transport
