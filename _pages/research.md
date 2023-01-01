@@ -19,7 +19,7 @@ toc: true
 Identifying a water mass' hemisphere of origin based on temperature and salinity alone is imperfect as the major water masses from either hemisphere have common formation mechanisms and thereby have similar temperature and salinity characteristics. Fortunately, those same formation mechanisms lead to unique dissolved oxygen signals for the major water masses below the surface layer. Thus, when combined with temperature and salinity, dissolved oxygen can be used to infer the hemisphere of water mass origin. I am presently investigating the different cross-equatorial MOC return flow pathways in the Caribbean. This research utilizes the unique temperature, salinity, and dissolved oxygen characteristics of South Atlantic and North Atlantic Water (SAW/NAW) in existing glider datasets in the Northern Caribbean and planned glider deployments in the Southern Caribbean. This work is in progress as Chapter 2 of my PhD.
 
 <figure >
-    <img src="/assets/images/Windwards_Map.png">
+    <img src="/assets/images/Windwards_2022_Map.png">
     <figcaption> Glider RU29 Windward Island Passages Deployments (October and November 2022) </figcaption>
 </figure>
 
