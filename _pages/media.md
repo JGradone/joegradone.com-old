@@ -14,4 +14,4 @@ Check out a short podcast I did on Silbo's journey while I was working for Teled
 
 ---
 I was awarded 3rd place in the University of Delaware's 2017 Pitch: 90 competition; a fast-paced elevator pitch contest:
-{% include video id= "https://www.youtube.com/watch?v=ZGCPswfyOoc" provider="youtube" %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZGCPswfyOoc?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
