@@ -23,13 +23,14 @@ Identifying a water mass' hemisphere of origin based on temperature and salinity
     <img src="/assets/images/Windwards_2022_Map.png">
     <figcaption> Glider RU29 Windward Island Passages Deployments (October and November 2022) </figcaption>
 </figure>
-
+{: .align-caption}
 ---
 ## Revisiting Anegada Passage Transport
 <figure >
     <img src="/assets/images/Anegada_Map.png">
     <figcaption> Glider tracks in the Anegada Passage region from 2020-2022 glider deployments. </figcaption>
 </figure>
+{: .align-caption}
 
 Caribbean through-flow is an important source of heat and salt for the Atlantic Meridional Overturning Circulation (AMOC). The presence of water masses that originated in the South Atlantic (SAW) in the Northern Hemisphere is indicative of cross-equatorial AMOC return flow. Ship-based observations in the 1990’s identified major pathways for this AMOC return flow but there is still a significant amount of SAW that is taking an unknown, alternate route northward. Working with Travis Miles and Scott Glenn of Rutgers and Doug Wilson from the University of the Virgin Islands, we have now conducted 4 glider deployments in the Anegada Passage region since 2020 collecting the first observations of temperature, salinity, and subsurface velocity in nearly 20 years. These observations suggest that the total transport and SAW transport through the Anegada Passage is larger than previously estimated. This work has been submitted to the JGR: Oceans and comprises Chapter 1 of my PhD.
 
@@ -37,6 +38,7 @@ Caribbean through-flow is an important source of heat and salt for the Atlantic 
     <img src="/assets/images/Anegada_Transport.png">
     <figcaption> E(+)/W(-) (top row) and N(+)/S(-) (bottom row) transport time-series’ calculated from the repeat transect lines between St. Thomas and St. Croix for the RU29 October 2020 deployment (left column) and RU36 March 2022 deployment (right column). Black dashed line represents the deployment mean transport. </figcaption>
 </figure>
+{: .align-caption}
 
 ---
 ## Onboard Processing for Glider ADCPs
@@ -45,6 +47,7 @@ There is a growing number of increasingly complex instruments have been integrat
     <img src="/assets/images/glider_adcp.png">
     <figcaption> Schematic of glider ADCP data processed into a single velocity profile. </figcaption>
 </figure>
+{: .align-caption}
 
 ---
 ## Slocum Glider Development
@@ -58,7 +61,7 @@ Prior to coming to Rutgers, I worked as a Customer Support Applications Engineer
     <img src="/assets/images/silbo_track.jpg">
     <figcaption> Silbo and her total Trans-Atlantic Challenger Mission Track. </figcaption>
 </figure>
-  
+{: .align-caption}
 
 ---
 ## Kinetic Energy and Phytoplankton
@@ -67,4 +70,4 @@ I conducted Master's work at the University of Delaware with Matt Oliver in the 
     <img src="/assets/images/MKE_CHL_HOCKEY_STICK.png">
     <figcaption> Mean surface kinetic energy and mean surface chlorophyll concentration relationship derived in the Southern Ocean from 2003 to 2017. </figcaption>
 </figure>
-
+{: .align-caption}
