@@ -55,7 +55,7 @@ Prior to coming to Rutgers, I worked as a Customer Support Applications Engineer
 
 <figure >
     <img src="/assets/images/silbo_track.jpg">
-    <figcaption> Silbo and her total Trans-Atlantic Challenger Mission Track. </figcaption>
+    <figcaption> **Silbo and her total Trans-Atlantic Challenger Mission Track.** </figcaption>
 </figure>
   
 
