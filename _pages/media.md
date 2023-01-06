@@ -16,6 +16,14 @@ Check out this short video on our ongoing research in the Eastern Caribbean wher
 <br>
 [Here](https://sanctuaire-agoa.fr/actualites/un-engin-scientifique-arpente-les-eaux-antillaises?fbclid=IwAR1JsAjcCyY2-_4SE0JnlMtPqn4o4h_a5XCHUwNh25Q2DjSd9lwvI7rfB88) is also a short post from our collaborators within France's Agoa Marine Sanctuary in the Office of Biodiversity detailing this work.
 
+
+## LTER Antarctic Cruise
+
+In 2021, I spent 7 weeks on the RVIB Nathaniel B. Palmer for the LTER cruise off the West Antarctic Penninsula. Here's a cool [news story](https://www.udel.edu/udaily/2022/june/students-antarctica-research-cruise/) from my alma mater, the University of Delaware.
+<figure >
+    <img src="/assets/images/lter.webp">
+</figure>
+
 ## Comparing Offshore Wind Buoy Data and Glider Data
 
 A [BusinessWire.com](https://www.businesswire.com/news/home/20210421005872/en/Atlantic-Shores-Offshore-Wind-Launches-Buoys-to-Collect-Essential-Atmospheric-Cold-Pool-Animal-Migration-Data) story on some work we were doing comparing data from a glider deployment conducted within the vicinity of the Atlantic Shores Offshore Wind buoy.
