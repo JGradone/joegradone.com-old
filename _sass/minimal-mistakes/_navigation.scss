@@ -515,7 +515,7 @@
   .nav__title {
     color: #fff;
     font-size: $type-size-6;
-    background: $primary-color;
+    background: $gray;
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
   }
@@ -527,6 +527,7 @@
 }
 
 .toc__menu {
+  color: $gray;
   margin: 0;
   padding: 0;
   width: 100%;

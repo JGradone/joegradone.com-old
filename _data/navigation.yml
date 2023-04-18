@@ -2,5 +2,7 @@
   main:
   - title: "Research"
     url: /research/
+  - title: "Media"
+    url: /media/
   - title: "CV"
     url: /assets/JGradone_CV.pdf
