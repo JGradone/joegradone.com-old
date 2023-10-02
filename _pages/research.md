@@ -9,15 +9,15 @@ toc: true
 ---
 
 <br>
-## Searching for Pathways of Cross-Equatorial Water Mass Return Flow
+## Deciphering Climatic Signals within the Upper Ocean Water Mass Structure of the Tropical Atlantic
 
 <figure >
-    <img src="/assets/images/Anegada_T_S_O2.png">
-    <figcaption> Typical temperature (a) and salinity (b) profiles in the Anegada Passage region, as well as approximate ranges of the major water masses (c). Without the use of dissolved oxygen (d), two distinctly different water masses in the Central Water range cannot be distinguished from each other based on temperature and salinity alone. </figcaption>
+    <img src="/assets/images/Anegada_WIMP.png">
+    <figcaption> Temperature-Salinity plot comparing water mass variability in the 1990's from ship-based observations (WIMP; i.e. Windward Island Passage Monitoring Program) and water mass variability in the 2020's (glider) </figcaption>
 </figure>
 {: .align-caption}
 
-Identifying a water mass' hemisphere of origin based on temperature and salinity alone is imperfect as the major water masses from either hemisphere have common formation mechanisms and thereby have similar temperature and salinity characteristics. Fortunately, those same formation mechanisms lead to unique dissolved oxygen signals for the major water masses below the surface layer. Thus, when combined with temperature and salinity, dissolved oxygen can be used to infer the hemisphere of water mass origin. I am presently investigating the different cross-equatorial meridional overturning circulation (MOC) return flow pathways in the Caribbean. This research utilizes the unique temperature, salinity, and dissolved oxygen characteristics of South Atlantic and North Atlantic Water (SAW/NAW) in existing glider datasets in the Northern Caribbean and planned glider deployments in the Southern Caribbean. This work is in progress as Chapter 2 of my PhD.
+The net inflow to the Caribbean Sea (~28 Sv) accounts for up to 90% of the Florida Current transport (~31 Sv) and consequently is an important conduit of heat and salt fluxes in the upper limb of the Atlantic Meridional Overturning Circulation (AMOC). As up to 17 Sv of the 28 Sv flowing through the Yucatan Straits is thought to be of South Atlantic origin, these heat and salt fluxes are largely determined by the Caribbean’s role as the location where North and South Atlantic water masses mix together. In recent decades there have been significant changes in the North and South Atlantic Gyres and, thus, the major water masses that compose the Caribbean through-flow. There is significant paleoceanographic evidence that the changes in climate that have driven changes in water mass properties also have the potential to impact the circulation dynamics bringing these water masses to the Caribbean. The complex nature of the Caribbean through-flow and it's role in determining the global distribution of heat and salt leads to an interesting and important question: Are the trends in water mass properties in the Caribbean through-flow due to changes in the source water mass properties or the circulation dynamics transporting these water masses to the region? In Chapter 2 of my PhD, I attempt to isolate the contribution of the Atlantic wide water mass trends to those observed in the Caribbean through-flow.
 
 <figure >
     <img src="/assets/images/Windwards_2022_Map.png">
