@@ -19,12 +19,6 @@ toc: true
 
 The net inflow to the Caribbean Sea (~28 Sv) accounts for up to 90% of the Florida Current transport (~31 Sv) and consequently is an important conduit of heat and salt fluxes in the upper limb of the Atlantic Meridional Overturning Circulation (AMOC). As up to 17 Sv of the 28 Sv flowing through the Yucatan Straits is thought to be of South Atlantic origin, these heat and salt fluxes are largely determined by the Caribbean’s role as the location where North and South Atlantic water masses mix together. In recent decades there have been significant changes in the North and South Atlantic Gyres and, thus, the major water masses that compose the Caribbean through-flow. There is significant paleoceanographic evidence that the changes in climate that have driven changes in water mass properties also have the potential to impact the circulation dynamics bringing these water masses to the Caribbean. The complex nature of the Caribbean through-flow and it's role in determining the global distribution of heat and salt leads to an interesting and important question: Are the trends in water mass properties in the Caribbean through-flow due to changes in the source water mass properties or the circulation dynamics transporting these water masses to the region? In Chapter 2 of my PhD, I attempt to isolate the contribution of the Atlantic wide water mass trends to those observed in the Caribbean through-flow.
 
-<figure >
-    <img src="/assets/images/Windwards_2022_Map.png">
-    <figcaption> Glider RU29 Windward Island Passages Deployments (October and November 2022) </figcaption>
-</figure>
-{: .align-caption}
-
 ## Revisiting Anegada Passage Transport
 
 <figure >
